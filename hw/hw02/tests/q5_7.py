@@ -9,3 +9,4 @@ test = {   'name': 'q5_7',
                       'setup': '',
                       'teardown': '',
                       'type': 'doctest'}]}
+OK_FORMAT = True
