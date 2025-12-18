@@ -1,0 +1,5 @@
+0,SyntaxError,"unexpected EOF while parsing (1867411798.py, line 1)",0,,2025-12-18 20:59:09.887714
+1,NameError,name 'eleven' is not defined,0,,2025-12-18 20:59:13.974331
+2,SyntaxError,"unexpected EOF while parsing (1867411798.py, line 1)",0,,2025-12-18 21:06:12.677208
+3,NameError,name 'eleven' is not defined,0,,2025-12-18 21:06:45.923837
+4,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-18 21:07:27.987550

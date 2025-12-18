@@ -1,0 +1,6 @@
+0,NameError,name 'eleven' is not defined,0,,2025-12-18 20:51:39.596250
+1,NameError,name 'eleven' is not defined,0,,2025-12-18 20:51:55.905768
+2,ValueError,Test q3_1_2 not found,0,,2025-12-18 20:52:12.373160
+3,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-18 20:54:19.706781
+4,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-18 20:54:33.332046
+5,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-18 20:54:55.784555
