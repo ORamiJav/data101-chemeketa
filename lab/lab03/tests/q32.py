@@ -13,3 +13,4 @@ test = {   'name': 'q32',
                       'setup': '',
                       'teardown': '',
                       'type': 'doctest'}]}
+OK_FORMAT = True
