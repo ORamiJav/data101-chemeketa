@@ -1,0 +1,5 @@
+0,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:45:42.049574
+1,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2025-12-24 19:47:04.502911
+2,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2025-12-24 19:47:05.028352
+3,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2025-12-24 19:49:23.107101
+4,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2025-12-24 19:49:23.837070

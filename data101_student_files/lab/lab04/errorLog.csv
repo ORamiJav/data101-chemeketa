@@ -1,0 +1,27 @@
+0,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:51:59.832739
+1,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:52:31.884979
+2,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:52:37.235969
+3,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:52:56.478350
+4,NameError,name 'factor' is not defined,0,,2025-12-24 19:53:22.156692
+5,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:27.270734
+6,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:28.531734
+7,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2025-12-24 19:53:29.629789
+8,TypeError,"the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U7'), dtype('<U7'), dtype('<U14'))",0,,2025-12-24 19:53:30.548057
+9,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:31.513462
+10,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:32.091225
+11,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:32.697996
+12,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:53:33.312101
+13,TypeError,'int' object is not callable,0,,2025-12-24 19:53:36.396501
+14,RuntimeError,Malformed test file: does not define the global variable 'OK_FORMAT',0,,2025-12-24 19:54:31.590819
+15,NameError,name 'factor' is not defined,0,,2025-12-24 19:55:40.925604
+16,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2025-12-24 19:55:41.412771
+17,TypeError,"the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U7'), dtype('<U7'), dtype('<U14'))",0,,2025-12-24 19:55:41.477721
+18,TypeError,'int' object is not callable,0,,2025-12-24 19:55:42.010522
+19,NameError,name 'factor' is not defined,0,,2025-12-24 20:06:51.089065
+20,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2025-12-24 20:06:51.537926
+21,TypeError,"the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U7'), dtype('<U7'), dtype('<U14'))",0,,2025-12-24 20:06:51.602842
+22,TypeError,'int' object is not callable,0,,2025-12-24 20:06:51.980146
+23,NameError,name 'factor' is not defined,0,,2025-12-24 20:09:30.587215
+24,TypeError,unsupported operand type(s) for +: 'NoneType' and 'int',0,,2025-12-24 20:09:31.241917
+25,TypeError,"the resolved dtypes are not compatible with add.reduce. Resolved (dtype('<U7'), dtype('<U7'), dtype('<U14'))",0,,2025-12-24 20:09:31.337252
+26,TypeError,'int' object is not callable,0,,2025-12-24 20:09:31.900960
